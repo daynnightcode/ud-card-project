@@ -1,2 +1,4 @@
 ﻿# ud-card-project
-This project is based on Udaicty Front End Developer Nano Degree
+<p>This project is based on Udaicty Front End Developer Nano Degree</p>
+
+![Alt text](/sc.jpg)
